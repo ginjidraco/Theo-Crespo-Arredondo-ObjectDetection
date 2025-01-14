@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theo.crespo.ObjectDetection", "theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.csproj", "{D38459C7-538F-45F4-AFB3-468843D937E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theo.crespo.ObjectDetection.Tests", "theo.crespo.ObjectDetection.Tests\theo.crespo.ObjectDetection.Tests.csproj", "{9388A52B-5F55-4033-A424-A6604C8C00A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theo.crespo.ObjectDetection.Console", "theo.crespo.ObjectDetection.Console\theo.crespo.ObjectDetection.Console.csproj", "{9DB0D296-3B5A-4FAA-BBC8-7272BF7EB4FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theo.crespo.ObjectDetection.WebApi", "theo.crespo.ObjectDetection.WebApi\theo.crespo.ObjectDetection.WebApi.csproj", "{A37B08C2-2028-4A89-9848-BCF3070C3F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38459C7-538F-45F4-AFB3-468843D937E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38459C7-538F-45F4-AFB3-468843D937E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38459C7-538F-45F4-AFB3-468843D937E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38459C7-538F-45F4-AFB3-468843D937E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9388A52B-5F55-4033-A424-A6604C8C00A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9388A52B-5F55-4033-A424-A6604C8C00A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9388A52B-5F55-4033-A424-A6604C8C00A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9388A52B-5F55-4033-A424-A6604C8C00A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB0D296-3B5A-4FAA-BBC8-7272BF7EB4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB0D296-3B5A-4FAA-BBC8-7272BF7EB4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB0D296-3B5A-4FAA-BBC8-7272BF7EB4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB0D296-3B5A-4FAA-BBC8-7272BF7EB4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37B08C2-2028-4A89-9848-BCF3070C3F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37B08C2-2028-4A89-9848-BCF3070C3F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37B08C2-2028-4A89-9848-BCF3070C3F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37B08C2-2028-4A89-9848-BCF3070C3F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

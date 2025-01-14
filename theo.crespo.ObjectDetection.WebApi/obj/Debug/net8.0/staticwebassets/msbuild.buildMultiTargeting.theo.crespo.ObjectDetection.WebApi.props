@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\theo.crespo.ObjectDetection.WebApi.props" />
+</Project>

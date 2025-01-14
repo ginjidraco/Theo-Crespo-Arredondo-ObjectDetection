@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Update="TinyYolo2_model.onnx">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.ML" Version="4.0.0" />
+      <PackageReference Include="Microsoft.ML.ImageAnalytics" Version="4.0.0" />
+      <PackageReference Include="Microsoft.ML.OnnxRuntime" Version="1.20.1" />
+      <PackageReference Include="Microsoft.ML.OnnxTransformer" Version="4.0.0" />
+      <PackageReference Include="OpenCvSharp4" Version="4.10.0.20241108" />
+      <PackageReference Include="OpenCvSharp4.Extensions" Version="4.10.0.20241108" />
+      <PackageReference Include="OpenCvSharp4.runtime.win" Version="4.10.0.20241108" />
+      <PackageReference Include="System.Drawing.Common" Version="9.0.0" />
+    </ItemGroup>
+
+</Project>

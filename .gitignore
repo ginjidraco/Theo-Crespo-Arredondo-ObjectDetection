@@ -1,0 +1,20 @@
+﻿# Build Results
+/bin/
+/obj/
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+packages/

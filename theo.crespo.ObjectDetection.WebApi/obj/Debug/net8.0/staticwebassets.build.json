@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hH7CCzFSYg414K+ajBJCk2mW+8vp4uaDsuEbf1KMSY0=",
+  "Source": "theo.crespo.ObjectDetection.WebApi",
+  "BasePath": "_content/theo.crespo.ObjectDetection.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

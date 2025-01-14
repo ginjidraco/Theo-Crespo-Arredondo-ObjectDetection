@@ -1,0 +1,13 @@
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\bin\Debug\net8.0\theo.crespo.ObjectDetection.deps.json
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\bin\Debug\net8.0\theo.crespo.ObjectDetection.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\bin\Debug\net8.0\theo.crespo.ObjectDetection.pdb
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\theo.crespo.ObjectDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\theo.crespo.ObjectDetection.AssemblyInfoInputs.cache
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\theo.crespo.ObjectDetection.AssemblyInfo.cs
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\theo.crespo.ObjectDetection.csproj.CoreCompileInputs.cache
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\theo.crespo.ObjectDetection.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\refint\theo.crespo.ObjectDetection.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\theo.crespo.ObjectDetection.pdb
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\ref\theo.crespo.ObjectDetection.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\bin\Debug\net8.0\TinyYolo2_model.onnx
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\theo.crespo.ObjectDetection.csproj.AssemblyReference.cache
