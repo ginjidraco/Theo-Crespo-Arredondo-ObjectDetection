@@ -78,3 +78,10 @@ C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Conso
 C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\obj\Debug\net8.0\theo.crespo.ObjectDetection.Console.pdb
 C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\obj\Debug\net8.0\theo.crespo.ObjectDetection.Console.genruntimeconfig.cache
 C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\obj\Debug\net8.0\ref\theo.crespo.ObjectDetection.Console.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\bin\Debug\net8.0\OpenCvSharp.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\bin\Debug\net8.0\OpenCvSharp.Extensions.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\bin\Debug\net8.0\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\bin\Debug\net8.0\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\bin\Debug\net8.0\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\bin\Debug\net8.0\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection.Console\obj\Debug\net8.0\theo.crespo.ObjectDetection.Console.sourcelink.json

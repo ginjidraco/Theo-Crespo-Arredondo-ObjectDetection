@@ -11,3 +11,4 @@ C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\D
 C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\ref\theo.crespo.ObjectDetection.dll
 C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\bin\Debug\net8.0\TinyYolo2_model.onnx
 C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\theo.crespo.ObjectDetection.csproj.AssemblyReference.cache
+C:\truc\tech-lille\theo.crespo.ObjectDetection\theo.crespo.ObjectDetection\obj\Debug\net8.0\theo.crespo.ObjectDetection.sourcelink.json
